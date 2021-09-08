@@ -22,13 +22,13 @@ __pwd__ -- __Print working directory__
 ---
 __cd__ -- __Change directory__
 > __cd__ will change the directory you're in so that you can get information, manipulate, read, et., the differnt files and directories in your system.
-> Syntax: __cd__ [option(s)] directory
-> Common options: options aren't typically used with __cd__
+* Syntax: __cd__ [option(s)] directory
+* Common options: options aren't typically used with __cd__
 ---
 __mv__ -- __Move or rename directory__
 > __mv__ is used to rename or move directories, without this command you would have to rename each file individually which is tedious. __mv__ allows you to do batch file renaming which can save you loads of time.
-> Syntax: __mv__ [option(s)] argument(s)
-> Common options: -i, -b
+* Syntax: __mv__ [option(s)] argument(s)
+* Common options: -i, -b
 ---
 __clear__ -- __Clear your terminal window__
 > This command is used to clear all previous commands and output from consoles and terminal windows. This keeps your terminal clean and removes the clutter so you can focus on subsequent commands and their output.
